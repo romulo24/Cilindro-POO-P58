@@ -5,10 +5,12 @@
 class Cilindro
 {
 private:
+    
     float altura;
     Circulo base;
 
 public:
+    
     Cilindro();
     Cilindro(float altura,float radio);
     void volumen();
