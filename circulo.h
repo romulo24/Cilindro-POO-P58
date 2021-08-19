@@ -1,3 +1,10 @@
+/*
+* Programacion Orientada a Objetos.
+* Autor: Estudiante Torres LLivipuma Romulo Jesus <rtorresll@est.ups.edu.ec>
+* Universidad Politecnica Salesiana
+* Fecha: 15-04-2021
+* Cilindro
+*/
 #ifndef CIRCULO_H
 #define CIRCULO_H
 
