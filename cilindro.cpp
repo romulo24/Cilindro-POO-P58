@@ -10,13 +10,13 @@
 Cilindro::Cilindro()
 {
 this->altura=0;
-    this->base=0;
+this->base=0;
 }
 
 Cilindro::Cilindro(float altura, float radio)
 {
 this->altura=altura;
-    this->base=radio;
+this->base=radio;
 }
 
 void Cilindro::volumen()
