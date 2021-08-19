@@ -5,14 +5,15 @@
 class Cilindro
 {
 private:
-    
+    //Atibutos 
     float altura;
     Circulo base;
 
 public:
-    
+    //Constructor 
     Cilindro();
     Cilindro(float altura,float radio);
+    //Metodos 
     void volumen();
 };
 
